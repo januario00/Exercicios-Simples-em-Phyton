@@ -2,7 +2,9 @@
 Atividades realizadas em curso com Professor Gustavo Guanabara , códigos em Phyton. Iniciando trajetória em Phyton.
 
 
-🐍 Meu Repositório em Python
+<div> <img align="center" alt="Dani-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </div> 
+
+Meu Repositório em Python
 Seja bem-vindo(a) ao meu cantinho de códigos em Python! Aqui você vai encontrar meus estudos, projetos simples e anotações sobre essa linguagem que está presente em quase tudo: da Inteligência Artificial aos sites que usamos todos os dias.
 
 📚 Sobre este repositório
