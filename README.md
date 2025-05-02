@@ -29,8 +29,9 @@ Python 3.x
 
 (Se houver, você pode adicionar bibliotecas aqui, como pandas, tkinter, matplotlib, etc.)
 
-👨‍🏫 Inspirado por
+👨‍🏫 Inspirado por:
+
 Este projeto é inspirado nas aulas e na forma didática do Professor Gustavo Guanabara, conhecido por ensinar com simplicidade e bom humor no canal Curso em Vídeo. Vale muito a pena conferir!
 
-🤝 Como contribuir
+🤝 Como contribuir:
 Se quiser colaborar com sugestões, correções ou ideias, fique à vontade! Toda ajuda é bem-vinda — afinal, aprender juntos é bem mais legal! 😄
